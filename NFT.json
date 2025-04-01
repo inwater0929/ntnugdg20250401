@@ -1,0 +1,16 @@
+{
+  "name": "mollo",
+  "image": "ipfs://bafkreihjwwkkexffgvvnihm6kb3ay2segzy54osunbw2m4unjldj6m6xua",
+  "description": "I love mollo.",
+  "external_url": "https://mollo.gov/",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "mollo"
+    },
+    {
+      "trait_type": "creator",
+      "value": "happy mollo"
+    }
+  ]
+}
